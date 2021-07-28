@@ -13,12 +13,12 @@
     },
     {
       "src": "/",
-      "dest": "app.js",
+      "dest": "/app.js",
       "methods": ["GET"]
     },
     {
-      "src": "/cotacao",
-      "dest": "app.js",
+      "src": "/convert",
+      "dest": "/app.js",
       "methods": ["GET"]
     }
   ]
