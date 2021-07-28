@@ -1,0 +1,27 @@
+{
+  "name": "convertmymoney",
+  "version": "1.0.0",
+  "description": "Neste projeto criamos uma aplicação cujo objetivo á a captura de dados de cotação de moedas através de uma API,",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WillyChristian/convertmymoney.git"
+  },
+  "keywords": [
+    "Devpleno",
+    "FullstackMaster"
+  ],
+  "author": "Willy Christian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WillyChristian/convertmymoney/issues"
+  },
+  "homepage": "https://github.com/WillyChristian/convertmymoney#readme"
+}
