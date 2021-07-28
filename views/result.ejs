@@ -1,0 +1,14 @@
+<%- include ('./components/header') %> <%- include ('./components/logo') %>
+<section>
+  <div class="result">
+    <% if(error){ %> <%- include ('./components/error')%> <% } else { %>
+    <p>Moeda Base: <%= from_cur %></p>
+    <p>Moeda de Conversão: <%= to_cur %></p>
+    <p>Cotação atual: $<%= quotation %></p>
+    <p>Quantidade: $<%= quantity %></p>
+    <p>Valor Convertido: $<%= converted %></p>
+    <a href="/">Voltar</a>
+  </div>
+  <% } %>
+</section>
+<%- include ('./components/footer') %>
