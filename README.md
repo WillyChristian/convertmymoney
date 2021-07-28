@@ -67,7 +67,7 @@ Navegue pelo terminal até a pasta do projeto:
 cd ./convertmymoney
 ```
 
-:warning: Usuários do Windows devem utilizar barras invertidas "_\_" para realizar a navegação.
+:warning: Usuários do Windows devem utilizar barras invertidas "_\\_" para realizar a navegação.
 
 Instale as dependencias do projeto:
 
