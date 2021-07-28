@@ -67,7 +67,7 @@ Navegue pelo terminal até a pasta do projeto:
 cd ./convertmymoney
 ```
 
-:warning: Usuários do Windows devem utilizar barras invertidas "\" para realizar a navegação.
+:warning: Usuários do Windows devem utilizar barras invertidas "_\_" para realizar a navegação.
 
 Instale as dependencias do projeto:
 
@@ -75,7 +75,7 @@ Instale as dependencias do projeto:
 npm install
 ```
 
-Para subir o servidor namáquina pode-se usar o próprio node com o comando _node app.js_. Uma outra maneira seria utilizar
+Para subir o servidor na máquina pode-se usar o próprio node com o comando _node app.js_. Uma outra maneira seria utilizar
 o nodemon para que o servidor seja reiniciado a cada alteração no arquivo app.js
 
 Para instalar o nodemon utilize:
