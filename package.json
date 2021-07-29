@@ -9,10 +9,7 @@
     "express": "^4.17.1"
   },
   "devDependencies": {},
-  "scripts": {
-    "start": "node app.js",
-    "build": "node app.js"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/WillyChristian/convertmymoney.git"
