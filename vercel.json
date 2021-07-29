@@ -4,5 +4,9 @@
       "src": "app.js",
       "use": "@vercel/node"
     }
+  ],
+  "routes": [
+    { "src": "/", "methods": ["GET"] },
+    { "src": "/redirect", "methods": ["GET"] }
   ]
 }
