@@ -12,7 +12,7 @@ app.get("/", (req, res) => {
   res.render("home");
 });
 
-app.get("/convert", async (req, res) => {
+app.get("/cotacao", async (req, res) => {
   const { from_cur, quantity, to_cur } = { ...req.query };
   const error = false;
 
